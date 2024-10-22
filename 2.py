@@ -1,2 +1,2 @@
 print ("hi jede")
-print("buy")
+a=10
